@@ -13,7 +13,7 @@
     "autosave": true,
     "background": false,
     "colors": true,
-    "randomx": {
+    "randomxl": {
         "init": -1,
         "mode": "auto",
         "1gb-pages": false,
@@ -56,10 +56,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/loki",
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "loki.herominers.com:10111",
+            "user": "LAdLmPRUirKiFEi3YANopve6ueYpv1BYrfuAXmwBo1GZhuf7DbDz2D4UY3bEb4NzcBfNgNKekQ9yuKrS3oMBMoP3GwBh9kS",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
